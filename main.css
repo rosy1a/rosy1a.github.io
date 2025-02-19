@@ -182,7 +182,6 @@ input[type="button"]:hover,
 input[type="button"]:focus,
 input[type="submit"]:hover,
 input[type="submit"]:focus {
-  background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(86,112,195,1) 55%, rgba(127,1,211,1) 100%);
   color: #fff;
   border: 2px solid #7f01d3;
 }
